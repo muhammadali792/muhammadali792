@@ -94,16 +94,6 @@ DevOps Engineer focused on building production-grade infrastructure that is auto
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=muhammadali792&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
-
 <div align="center">
 
 *"Every component earns its place. Every decision has a reason."*
